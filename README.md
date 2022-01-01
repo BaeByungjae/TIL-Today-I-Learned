@@ -8,4 +8,4 @@ Today I Leraned -> 1일 1커밋 도전!
 
 ## TIL INDEX
 지금까지 공부한 내용 목록은 WIKI 참고
-(:link : https://github.com/BaeByungjae/TIL-Today-I-Learned/wiki)
+(🔗:https://github.com/BaeByungjae/TIL-Today-I-Learned/wiki)
